@@ -91,7 +91,7 @@ function DisplayWeather(props) {
                   <td>
                     <span>
                       {data.wind.deg}
-                      <sup>o</sup> deg
+                      <sup>°</sup> deg
                     </span>
                   </td>
                 </tr>
